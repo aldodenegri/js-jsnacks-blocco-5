@@ -5,5 +5,5 @@ const numbers = [2, 8, 4, 7, 2, 87];
 let newNumbers= numbers.map(num => {
     const add = num +1;
     console.log(add);
-    return add;s
+    return add;
 });
